@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Winlator</string>
+    <string name="app_name_lsfg">Winlator LSFG</string>
+    <string name="run">Run</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="containers">Containers</string>
+    <string name="input_controls">Input Controls</string>
+    <string name="no_items_to_display">No items to display</string>
+    <string name="new_container">New Container</string>
+    <string name="edit_container">Edit Container</string>
+    <string name="creating_container">Creating Container...</string>
+    <string name="removing_container">Removing Container...</string>
+    <string name="duplicating_container">Duplicating Container...</string>
+    <string name="installing_system_files">Installing System Files...</string>
+    <string name="updating_system_files">Updating System Files...</string>
+    <string name="starting_up">Starting up...</string>
+    <string name="unable_to_install_system_files">Unable to install system files</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="toggle_fullscreen">Toggle Fullscreen</string>
+    <string name="exit">Exit</string>
+    <string name="no_control_element_selected">No control element selected</string>
+    <string name="scale">Scale</string>
+    <string name="shape">Shape</string>
+    <string name="type">Type</string>
+    <string name="binding">Binding</string>
+    <string name="binding_up">Binding Up</string>
+    <string name="binding_right">Binding Right</string>
+    <string name="binding_down">Binding Down</string>
+    <string name="binding_left">Binding Left</string>
+    <string name="overlay_opacity">Overlay Opacity</string>
+    <string name="opacity">Opacity</string>
+    <string name="profile">Profile</string>
+    <string name="select_profile">Select Profile</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="untitled">Untitled</string>
+    <string name="no_profile_selected">No profile selected</string>
+    <string name="no_profile_found">No profile found</string>
+    <string name="do_you_want_to_remove_this_profile">Do you want to remove this profile?</string>
+    <string name="do_you_want_to_duplicate_this_profile">Do you want to duplicate this profile?</string>
+    <string name="do_you_want_to_duplicate_this_preset">Do you want to duplicate this preset?</string>
+    <string name="do_you_want_to_remove_this_container">Do you want to remove this container?</string>
+    <string name="do_you_want_to_duplicate_this_container">Do you want to duplicate this container?</string>
+    <string name="do_you_want_to_remove_this_file">Do you want to remove this file?</string>
+    <string name="do_you_want_to_remove_this_controller">Do you want to remove this controller?</string>
+    <string name="do_you_want_to_remove_this_wine_version">Do you want to remove this Wine version?</string>
+    <string name="do_you_want_to_remove_this_preset">Do you want to remove this preset?</string>
+    <string name="do_you_want_to_remove_this_component_version">Do you want to remove this component version?</string>
+    <string name="do_you_want_to_end_this_process">Do you want to end this process?</string>
+    <string name="controls_editor">Controls Editor</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="container">Container</string>
+    <string name="screen_size">Screen Size</string>
+    <string name="new_environment_variable">New Environment Variable</string>
+    <string name="environment_variables">Environment Variables</string>
+    <string name="value">Value</string>
+    <string name="processor_affinity">Processor Affinity</string>
+    <string name="processor_affinity_32_bit_apps">Processor Affinity (32-bit apps)</string>
+    <string name="cursor_speed">Cursor Speed</string>
+    <string name="relative_mouse_movement">Relative Mouse Movement</string>
+    <string name="toggle_switch">Toggle Switch</string>
+    <string name="profile_exported_to">Profile exported to</string>
+    <string name="unable_to_import_profile">Unable to import profile</string>
+    <string name="wine_configuration">Wine Configuration</string>
+    <string name="enable_csmt">Enable CSMT (Command Stream Multi-Thread)</string>
+    <string name="gpu_name">GPU Name</string>
+    <string name="offscreen_rendering_mode">Offscreen Rendering Mode</string>
+    <string name="enable_strict_shader_math">Enable Strict Shader Math</string>
+    <string name="video_memory_size">Video Memory Size</string>
+    <string name="none">None</string>
+    <string name="custom_text">Custom Text</string>
+    <string name="icon">Icon</string>
+    <string name="import_profile">Import Profile</string>
+    <string name="export_profile">Export Profile</string>
+    <string name="touchpad_help">Touchpad Help</string>
+    <string name="touchpad_help_mouse_left_click_title">Mouse Left-Click</string>
+    <string name="touchpad_help_mouse_left_click_description">Short tap with one finger</string>
+    <string name="touchpad_help_mouse_right_click_title">Mouse Right-Click</string>
+    <string name="touchpad_help_mouse_right_click_description">Tap with one finger and short tap with another finger</string>
+    <string name="touchpad_help_mouse_scroll_wheel_title">Mouse Scroll Wheel</string>
+    <string name="touchpad_help_mouse_scroll_wheel_description">Two fingers tap and move</string>
+    <string name="touchpad_help_main_menu_title">Main Menu</string>
+    <string name="touchpad_help_main_menu_description">Four fingers tap</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="about">About</string>
+    <string name="credits_and_third_party_apps">Credits and Third-party apps</string>
+    <string name="external_controllers">External Controllers</string>
+    <string name="graphics_driver">Graphics Driver</string>
+    <string name="audio_driver">Audio Driver</string>
+    <string name="loading">Loading...</string>
+    <string name="press_any_button_on_your_controller">Press any button on your controller</string>
+    <string name="bindings">Bindings</string>
+    <string name="show_touchscreen_controls">Show Touchscreen Controls</string>
+    <string name="dxwrapper" translatable="false">DX Wrapper</string>
+    <string name="mouse_warp_override" translatable="false">Mouse Warp Override</string>
+    <string name="direct3d" translatable="false">Direct3D</string>
+    <string name="directsound" translatable="false">DirectSound</string>
+    <string name="directmusic" translatable="false">DirectMusic</string>
+    <string name="directplay" translatable="false">DirectPlay</string>
+    <string name="directshow" translatable="false">DirectShow</string>
+    <string name="directinput" translatable="false">DirectInput</string>
+    <string name="xaudio" translatable="false">XAudio</string>
+    <string name="directx" translatable="false">DirectX</string>
+    <string name="vcrun2005" translatable="false">Visual C++ 2005</string>
+    <string name="vcrun2010" translatable="false">Visual C++ 2010</string>
+    <string name="wmdecoder" translatable="false">Windows Media Decoder</string>
+    <string name="settings">Settings</string>
+    <string name="exec_arguments" translatable="false">Exec Arguments</string>
+    <string name="win_components" translatable="false">Win Components</string>
+    <string name="drives">Drives</string>
+    <string name="drive">Drive</string>
+    <string name="force_fullscreen">Force Fullscreen</string>
+    <string name="range">Range</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="force">Force</string>
+    <string name="install_wine">Install Wine</string>
+    <string name="version">Version</string>
+    <string name="unable_to_install_wine">Unable to install Wine</string>
+    <string name="unable_to_remove_this_wine_version">Unable to remove this Wine version</string>
+    <string name="wine_version">Wine Version</string>
+    <string name="removing_wine">Removing Wine...</string>
+    <string name="preparing_installation">Preparing installation...</string>
+    <string name="finishing_installation">Finishing installation...</string>
+    <string name="storage_info">Storage Info</string>
+    <string name="drive_c">Drive C:</string>
+    <string name="cache" translatable="false">Cache</string>
+    <string name="total">Total</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="estimated_used_space">Estimated Used Space</string>
+    <string name="advanced">Advanced</string>
+    <string name="box64" translatable="false">Box64</string>
+    <string name="system">System</string>
+    <string name="box64_preset">Box64 Preset</string>
+    <string name="box64_version">Box64 Version</string>
+    <string name="letter">Letter</string>
+    <string name="target_path">Target Path</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="old">old</string>
+    <string name="_new">new</string>
+    <string name="task_manager">Task Manager</string>
+    <string name="process_name">Process Name</string>
+    <string name="pid" translatable="false">PID</string>
+    <string name="memory">Memory</string>
+    <string name="battery">Battery</string>
+    <string name="end_process">End Process</string>
+    <string name="new_task">New Task</string>
+    <string name="processes">Processes</string>
+    <string name="orientation">Orientation</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="open_file">Open File</string>
+    <string name="download_file">Download File</string>
+    <string name="do_you_want_to_download_the_selected_profiles">Do you want to download the selected profiles?</string>
+    <string name="downloading_file">Downloading File...</string>
+    <string name="a_network_error_occurred">A network error occurred</string>
+    <string name="copy">Copy</string>
+    <string name="installed_version">Installed Version</string>
+    <string name="unable_to_download_file">Unable to download file</string>
+    <string name="stability">Stability</string>
+    <string name="conservative">Conservative</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="performance">Performance</string>
+    <string name="unity_preset">Unity Preset</string>
+    <string name="preset">Preset</string>
+    <string name="you_cannot_remove_this_preset">You cannot remove this preset</string>
+    <string name="you_cannot_remove_this_component_version">You cannot remove this component version</string>
+    <string name="dxwrapper_help_content"><![CDATA[
+        <i><b>WineD3D</b></i> is a translation layer for DirectX 1-11 to OpenGL.<br /><br />
+        <i><b>DXVK</b></i> is a translation layer for Direct3D 9-11 to Vulkan.<br /><br />
+        <i><b>VKD3D</b></i> is a translation layer for Direct3D 12 API to Vulkan.<br /><br />
+        <i><b>CNC DDraw</b></i> is an implementation of DirectDraw for better compatibility with classic games.
+    ]]></string>
+    <string name="box64_env_var_help__dynarec_safeflags" translatable="false"><![CDATA[
+        Handling of flags on CALL/RET opcodes<br /><br />
+        <b>0</b> : Treats CALL/RET as if it never needed flags (faster, unstable)<br />
+        <b>1</b> : Most RET will need flags, most CALLS will not<br />
+        <b>2</b> : All CALL/RET will need flags (slower)
+    ]]></string>
+    <string name="box64_env_var_help__dynarec_fastnan" translatable="false">Generation of -NAN like on x86</string>
+    <string name="box64_env_var_help__dynarec_fastround" translatable="false"><![CDATA[
+        Generation of precise x86 rounding<br /><br />
+        <b>0</b> : Generate float/double -> int rounding like on x86<br />
+        <b>1</b> : Don\'t do anything special with edge case Rounding, to go as fast as possible (no INF/NAN/Overflow -> MIN_INT conversion)<br />
+        <b>2</b> : Everything from 1 plus also fast round of double -> float (not taking into account current rounding mode)
+    ]]></string>
+    <string name="box64_env_var_help__dynarec_x87double" translatable="false">Use of Float/Double for x87 emulation</string>
+    <string name="box64_env_var_help__dynarec_bigblock" translatable="false"><![CDATA[
+        Dynarec building BigBlock<br /><br />
+        <b>0</b> : Don\'t try to build block as big as possible<br />
+        <b>1</b> : Build Dynarec block as big as possible<br />
+        <b>2</b> : Build Dynarec block bigger (continue when block overlaps, but only for blocks in elf memory)<br />
+        <b>3</b> : Build Dynarec block bigger (continue when block overlaps, for all types of memory)
+    ]]></string>
+    <string name="box64_env_var_help__dynarec_strongmem" translatable="false"><![CDATA[
+        Simulation of Strong Memory model<br /><br />
+        <b>0</b> : Don\'t try anything special<br />
+        <b>1</b> : Enable some Memory Barrier when writing to memory (on some MOV opcode)<br />
+        <b>2</b> : All 1 plus a Memory Barrier on every write to memory using MOV<br />
+        <b>3</b> : All 2 plus Memory Barrier when reading from memory and on some SSE/SSE2 opcodes
+    ]]></string>
+    <string name="box64_env_var_help__dynarec_weakbarrier" translatable="false"><![CDATA[
+        Tweak the memory barriers to reduce the performance impact by strongmem<br /><br />
+        <b>0</b> : Use regular safe barrier<br />
+        <b>1</b> : Use weak barriers to have more performance boost<br />
+        <b>2</b> : All in 1, plus disabled the last write barriers
+    ]]></string>
+    <string name="box64_env_var_help__dynarec_forward" translatable="false">Defines the max allowed forward value when building Block</string>
+    <string name="box64_env_var_help__dynarec_callret" translatable="false">Optimization of CALL/RET opcodes</string>
+    <string name="box64_env_var_help__dynarec_wait" translatable="false">Defines whether or not Dynarec will wait for the FillBlock to be ready</string>
+    <string name="box64_env_var_help__dynarec_nativeflags" translatable="false">The generated code will use native flags, if possible</string>
+    <string name="box64_env_var_help__dynarec_aligned_atomics"><![CDATA[Generate aligned atomics only on Arm64. <b>1</b> uses smaller, faster code but can cause SIGBUS on unaligned LOCK operations; <b>0</b> handles unaligned atomics.]]></string>
+    <string name="box64_env_var_help__dynarec_df">Enable deferred flags. Disabling it can reduce optimization and may affect compatibility.</string>
+    <string name="box64_env_var_help__dynarec_dirty"><![CDATA[Allow DynaRec to continue a potentially dirty block. <b>1</b> can speed loading but may cause unexpected crashes; <b>2</b> also avoids write-protecting detected hot pages and may miss some self-modifying-code changes.]]></string>
+    <string name="box64_env_var_help__dynarec_pause">Selects x86 PAUSE emulation: <b>0</b> ignores it, <b>1</b> uses YIELD, <b>2</b> uses WFI, and <b>3</b> uses SEVL+WFE. These modes can affect spinlock behavior and compatibility.</string>
+    <string name="box64_env_var_help__dynarec_div0">Controls generation of division-by-zero exceptions. Enable it when software depends on the x86 exception; otherwise behavior may differ.</string>
+    <string name="box64_env_var_help__dynarec_tbb">Controls libtbb detection. When enabled, Box64 detects libtbb and applies conservative settings; it does not enable a performance mode.</string>
+    <string name="box64_env_var_help__dynarec_sep">Adds secondary entry points to optimize CALL/RET when CALLRET is enabled: <b>1</b> for known binaries, <b>2</b> for all memory. It may reduce duplicate blocks but can affect compatibility.</string>
+    <string name="box64_env_var_help__dynarec_nohotpage">Controls hot-page detection, for pages where code executes while data is written. Disabling detection can miss self-modifying-code changes and cause crashes.</string>
+    <string name="box64_env_var_help__dynarec_volatile_metadata">Uses volatile metadata from PE files to guide strong-memory emulation. It is valid only for 64-bit Windows games; disabling it removes that guidance.</string>
+    <string name="box64_env_var_help__unityplayer">Detects UnityPlayer and applies conservative settings, including BOX64_UNITY=1 when detected. It does not guarantee higher FPS.</string>
+    <string name="box64_env_var_help__unity">Marks the game as Unity: uses special Windows detection and applies BOX64_DYNAREC_STRONGMEM=1 on Linux. It changes compatibility behavior, not a guaranteed FPS boost.</string>
+    <string name="columns">Columns</string>
+    <string name="directinput_mapper_type">DirectInput Mapper Type</string>
+    <string name="desktop">Desktop</string>
+    <string name="theme">Theme</string>
+    <string name="background">Background</string>
+    <string name="max_device_memory">Max Device Memory</string>
+    <string name="frame_rate">Frame Rate</string>
+    <string name="configuration">Configuration</string>
+    <string name="browse">Browse</string>
+    <string name="magnifier">Magnifier</string>
+    <string name="bring_to_front">Bring to Front</string>
+    <string name="options">Options</string>
+    <string name="logs">Logs</string>
+    <string name="enable_wine_debug">Enable Wine debug</string>
+    <string name="box64_logs">Box64 Logs</string>
+    <string name="export">Export</string>
+    <string name="logs_exported_to">Logs exported to</string>
+    <string name="general">General</string>
+    <string name="startup_selection">Startup Selection</string>
+    <string name="wine_debug_channel">Wine Debug Channel</string>
+    <string name="save_logs_to_file">Save logs to file</string>
+    <string name="new_folder">New Folder</string>
+    <string name="view_style">View Style</string>
+    <string name="there_already_file_with_that_name">There is already a file with that name</string>
+    <string name="cut">Cut</string>
+    <string name="copying_files">Copying Files...</string>
+    <string name="removing_files">Removing Files...</string>
+    <string name="disable_mouse_input">Disable Mouse Input</string>
+    <string name="move_cursor_to_touchpoint">Move Cursor to Touchpoint</string>
+    <string name="sync_every_frame">Sync every frame</string>
+    <string name="dpi_font_size">DPI (Font Size)</string>
+    <string name="gamepad_model">Gamepad Model</string>
+    <string name="file_manager">File Manager</string>
+    <string name="documents">Documents</string>
+    <string name="items">items</string>
+    <string name="you_cannot_paste_files_here">You cannot paste files here</string>
+    <string name="information">Information</string>
+    <string name="rename">Rename</string>
+    <string name="location">Location</string>
+    <string name="file">File</string>
+    <string name="folder">Folder</string>
+    <string name="size">Size</string>
+    <string name="modified">Modified</string>
+    <string name="contains">Contains</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="file_added_to_favorites">File added to Favorites</string>
+    <string name="game_controllers">Game Controllers</string>
+    <string name="home">Home</string>
+    <string name="custom_device">Custom Device</string>
+    <string name="reinstall_system_files">Reinstall System Files</string>
+    <string name="do_you_want_to_reinstall_system_files">Do you want to reinstall system files?</string>
+    <string name="select_lossless_dll">Select Lossless.dll</string>
+    <string name="lossless_dll_not_selected">Lossless.dll not selected</string>
+    <string name="lossless_dll_selected">Lossless.dll selected</string>
+    <string name="lossless_dll_invalid">Select a readable .dll file</string>
+    <string name="lossless_dll_imported">Lossless.dll imported</string>
+    <string name="lossless_dll_import_failed">Unable to import Lossless.dll</string>
+    <string name="enable_lsfg_vk">Enable LSFG-VK</string>
+    <string name="lsfg_requires_lossless_dll">Select Lossless.dll in the general Settings before using LSFG-VK</string>
+    <string name="lsfg_vk">LSFG-VK</string>
+    <string name="lsfg_multiplier">Frame Generation</string>
+    <string name="lsfg_off">Off</string>
+    <string name="lsfg_multiplier_2x">2x</string>
+    <string name="lsfg_multiplier_3x">3x</string>
+    <string name="lsfg_multiplier_4x">4x</string>
+    <string name="lsfg_flow_scale">Flow Scale</string>
+    <string name="lsfg_preset">Preset</string>
+    <string name="lsfg_preset_performance">Performance</string>
+    <string name="lsfg_preset_balanced">Balanced</string>
+    <string name="lsfg_preset_quality">Quality</string>
+    <string name="lsfg_preset_custom">Custom</string>
+    <string name="unable_to_apply_lsfg_settings">Unable to apply LSFG-VK settings</string>
+    <string name="mouse">Mouse</string>
+    <string name="cursor_size">Cursor Size</string>
+    <string name="color">Color</string>
+    <string name="volume">Volume</string>
+    <string name="average_latency">Average Latency</string>
+    <string name="performance_mode">Performance Mode</string>
+    <string name="audio">Audio</string>
+    <string name="opengl_version">OpenGL Version</string>
+    <string name="disable_vertex_array_bgra">Disable vertex array BGRA</string>
+    <string name="screen_effect">Screen Effect</string>
+    <string name="enable_fxaa">Enable FXAA</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="gamma">Gamma</string>
+    <string name="color_adjustment">Color Adjustment</string>
+    <string name="reset">Reset</string>
+    <string name="enable_crt_shader">Enable CRT Shader</string>
+    <string name="open_directory">Open Directory</string>
+    <string name="locations">Locations</string>
+    <string name="downloads">Downloads</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="windows_version">Windows Version</string>
+    <string name="install_component">Install Component</string>
+    <string name="open_android_browser_from_wine">Open Android Browser from Wine</string>
+    <string name="use_android_clipboard_on_Wine">Use Android Clipboard on Wine</string>
+    <string name="capture_pointer_on_external_mouse">Capture pointer on external mouse</string>
+    <string name="there_are_no_items_to_download">There are no items to download</string>
+    <string name="enable_direct_rendering">Enable direct rendering</string>
+    <string name="d3d_feature_level">D3D Feature Level</string>
+    <string name="system_font">System Font</string>
+    <string name="vulkan_version">Vulkan Version</string>
+    <string name="exposed_extensions">Exposed Extensions</string>
+    <string name="multiselection_combobox_display_text">%d of %d items</string>
+    <string name="voltage">Voltage</string>
+    <string name="current">Current</string>
+    <string name="capacity">Capacity</string>
+    <string name="sound">Sound</string>
+    <string name="midi_soundfont">MIDI SoundFont</string>
+    <string name="instrument">Instrument</string>
+    <string name="channel">Channel</string>
+    <string name="note">Note</string>
+    <string name="move_mouse_when_pressed">Move Mouse when pressed</string>
+    <string name="midi_input_device">MIDI Input Device</string>
+    <string name="auto">Auto</string>
+    <string name="active_windows">Active Windows</string>
+    <string name="show_desktop">Show Desktop</string>
+    <string name="language">Language</string>
+    <string name="image_cache_size">Image Cache Size</string>
+    <string name="pip_mode">PiP Mode</string>
+    <string name="adrenotools_driver" translatable="false">Adrenotools Driver</string>
+    <string name="resource_memory_type">Resource Memory Type</string>
+    <string name="zero_no_limit">0 (No limit)</string>
+    <string name="custom">Custom</string>
+    <string name="minimal">Minimal</string>
+    <string name="trace">Trace</string>
+    <string name="builtin_wine">Builtin (Wine)</string>
+    <string name="native_windows">Native (Windows)</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="image">Image</string>
+    <string name="solid_color">Solid Color</string>
+    <string name="startup_selection_normal">Normal (Load all services)</string>
+    <string name="startup_selection_essential">Essential (Load only essential services)</string>
+    <string name="startup_selection_aggressive">Aggressive (Load minimal services)</string>
+    <string name="both">Both</string>
+    <string name="low_latency">Low Latency</string>
+    <string name="power_saving">Power Saving</string>
+    <string name="player">Player</string>
+    <string name="gamepad">Gamepad</string>
+    <string name="enable_vibration">Enable Vibration</string>
+    <string name="mode">Mode</string>
+    <string name="external_controller">External Controller</string>
+    <string name="controls_profile">Controls Profile</string>
+    <string name="do_you_want_to_reset_configurations">Do you want to reset the configurations?</string>
+    <string name="the_settings_have_been_changed_do_you_want_to_restart_the_app">The settings have been changed. Do you want to restart the app?</string>
+    <string name="hud_mode">HUD Mode</string>
+    <string name="simple_fps">Simple (FPS)</string>
+    <string name="full">Full</string>
+    <string name="ddraw_wrapper" translatable="false">DDraw Wrapper</string>
+    <string name="renderer">Renderer</string>
+    <string name="default_no_override">Default (No override)</string>
+    <string name="backup_saves">Backup saves</string>
+    <string name="restore_saves">Restore saves</string>
+    <string name="searching_for_save_data">Searching for save data</string>
+    <string name="save_data_found_summary">Save data found: %1$d entries (%2$s)</string>
+    <string name="no_save_data_found">No save data found</string>
+    <string name="confirm_backup">Confirm backup</string>
+    <string name="creating_save_backup">Creating save backup</string>
+    <string name="backup_completed">Backup completed</string>
+    <string name="backup_failed">Backup failed</string>
+    <string name="searching_for_save_backups">Searching for save backups</string>
+    <string name="no_save_backups_found">No save backups found</string>
+    <string name="select_backup">Select backup</string>
+    <string name="save_backup_list_item">%1$s — %2$d entries (%3$s)</string>
+    <string name="validating_save_backup">Validating save backup</string>
+    <string name="confirm_restore">Confirm restore</string>
+    <string name="confirm_restore_summary">Restore %1$d entries (%2$s)?</string>
+    <string name="existing_files_will_be_overwritten">Existing files will be overwritten. Current save data will not be deleted silently.</string>
+    <string name="invalid_backup">Invalid or incompatible backup</string>
+    <string name="restoring_save_data">Restoring save data</string>
+    <string name="restore_completed">Restore completed</string>
+    <string name="restore_failed">Restore failed</string>
+    <string name="restore_previous_configuration">Restore previous configuration</string>
+    <string name="save_working_configuration">Save working configuration</string>
+    <string name="apply_working_configuration">Apply working configuration</string>
+    <string name="confirm_restore_configuration">Restore the previous configuration?</string>
+    <string name="confirm_apply_working_configuration">Apply the working configuration?</string>
+    <string name="recovery">RECOVERY</string>
+    <string name="online_game_configs">Online Game Settings</string><string name="game">Game</string><string name="compatible_match">Compatible</string><string name="information_only">information only</string><string name="installed">Installed</string><string name="missing">Missing</string>
+    <string name="select_shortcut">Select shortcut</string>
+    <string name="configuration_applied">Settings applied</string>
+    <string name="no_online_configs">No online settings found</string>
+    <string name="online_configs_found">Online settings</string>
+    <string name="search">Search</string>
+    <string name="missing_component">Missing component</string>
+    <string name="config_requires_component">These settings require %1$s</string>
+    <string name="component_not_available">Required component is not available</string>
+    <string name="download">Download</string>
+    <string name="apply">Apply</string>
+    <string name="preview">Preview</string>
+    <string name="refresh">Refresh</string>
+    <string name="publish_config">Publish Settings</string>
+    <string name="publishing">Publishing...</string>
+    <string name="published_successfully">Published successfully</string>
+    <string name="publication_failed">Publication failed</string>
+    <string name="offline">Offline</string>
+    <string name="invalid_configuration">Invalid settings</string>
+    <string name="confirm">Confirm</string>
+    <string name="excellent_match">Excellent Match</string>
+    <string name="partial_match">Partial Match</string>
+    <string name="unknown_compatibility">Unknown</string>
+    <string name="required_components">Required Components</string>
+    <string name="device">Device</string><string name="soc">SoC</string><string name="gpu">GPU</string><string name="ram">RAM</string><string name="graphics">Graphics</string><string name="cpu_box64">CPU / Box64</string><string name="compatibility">Compatibility</string><string name="preview_changes">Preview Changes</string><string name="online_config_count">%1$d settings</string><string name="online_setting_singular">1 setting</string><string name="not_specified">Not specified</string><string name="no_compatible_shortcut">No compatible shortcut found</string><string name="using_cached_data">Using cached data</string>
+</resources>
